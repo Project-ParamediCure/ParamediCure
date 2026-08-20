@@ -1,0 +1,401 @@
+PatientID,State,Region_Type,Age,Gender,Symptom_Chest_Pain,Symptom_Breathing_Diff,Symptom_Severe_Bleeding,Loss_Of_Consciousness,Distance_to_Kiosk_km,Diagnosis_Delay_Days,Consultations_Per_Year,Treatment_Adherence_pct,Outcome,Baseline_Recovery_Days,Recovery_Days,Recovery_Improvement_pct
+P1001,Kerala,Rural,38,Female,Yes,Yes,No,No,4.6,7,6,67,Stage-2_Urgent,15,11,26.7
+P1002,Gujarat,Urban,67,Male,No,No,No,No,4.7,4,3,77,Stage-1_Stable,7,12,-71.4
+P1003,Karnataka,Rural,73,Female,Yes,Yes,Yes,Yes,6.5,12,9,62,Stage-3_Critical,28,35,-25.0
+P1004,Telangana,Rural,39,Female,Yes,Yes,Yes,Yes,9.4,11,4,53,Stage-3_Critical,28,32,-14.3
+P1005,Madhya Pradesh,Urban,26,Female,Yes,Yes,No,No,4.1,7,9,82,Stage-2_Urgent,15,15,0.0
+P1006,Madhya Pradesh,Rural,77,Female,Yes,Yes,No,No,5.5,3,2,66,Stage-2_Urgent,15,22,-46.7
+P1007,Odisha,Rural,27,Female,Yes,Yes,Yes,Yes,8.6,8,5,71,Stage-3_Critical,28,27,3.6
+P1008,Maharashtra,Rural,57,Female,No,Yes,No,No,2.9,7,6,89,Stage-1_Stable,7,11,-57.1
+P1009,Uttar Pradesh,Urban,33,Male,No,No,No,No,0.5,3,7,91,Stage-1_Stable,7,6,14.3
+P1010,Assam,Urban,26,Female,Yes,Yes,No,No,3.2,1,4,84,Stage-2_Urgent,15,13,13.3
+P1011,Kerala,Urban,70,Female,Yes,Yes,No,No,1.7,5,5,92,Stage-2_Urgent,15,15,0.0
+P1012,Telangana,Rural,27,Female,Yes,Yes,Yes,No,9.3,9,2,55,Stage-3_Critical,28,31,-10.7
+P1013,Punjab,Rural,62,Male,Yes,Yes,Yes,No,5.3,9,5,68,Stage-3_Critical,28,37,-32.1
+P1014,Gujarat,Rural,64,Female,Yes,Yes,Yes,Yes,13.9,14,1,52,Stage-3_Critical,28,37,-32.1
+P1015,Madhya Pradesh,Urban,22,Male,No,No,No,No,1.2,3,7,99,Stage-1_Stable,7,5,28.6
+P1016,Andhra Pradesh,Urban,29,Male,Yes,Yes,No,No,2.3,6,1,83,Stage-2_Urgent,15,14,6.7
+P1017,Kerala,Rural,71,Female,Yes,Yes,Yes,Yes,7.3,6,3,78,Stage-3_Critical,28,33,-17.9
+P1018,Maharashtra,Urban,51,Female,No,No,No,No,1.7,1,2,72,Stage-1_Stable,7,4,42.9
+P1019,Rajasthan,Rural,26,Female,Yes,Yes,No,No,4.6,5,8,96,Stage-2_Urgent,15,13,13.3
+P1020,Assam,Rural,84,Male,Yes,Yes,Yes,No,9.5,12,1,58,Stage-3_Critical,28,41,-46.4
+P1021,Kerala,Rural,35,Female,Yes,Yes,No,No,8.2,6,6,81,Stage-2_Urgent,15,13,13.3
+P1022,Rajasthan,Urban,18,Female,Yes,Yes,No,No,3.1,1,2,88,Stage-2_Urgent,15,13,13.3
+P1023,Tamil Nadu,Rural,79,Female,Yes,Yes,Yes,Yes,8.3,11,4,64,Stage-3_Critical,28,38,-35.7
+P1024,Rajasthan,Rural,19,Female,No,Yes,No,No,13.7,13,1,42,Stage-1_Stable,7,14,-100.0
+P1025,Rajasthan,Rural,55,Male,Yes,Yes,No,No,2.7,3,4,89,Stage-2_Urgent,15,18,-20.0
+P1026,Maharashtra,Urban,84,Female,Yes,Yes,No,No,2.6,0,2,85,Stage-2_Urgent,15,12,20.0
+P1027,Punjab,Urban,56,Male,No,No,No,No,1.5,1,5,99,Stage-1_Stable,7,6,14.3
+P1028,Telangana,Urban,57,Female,Yes,Yes,No,No,1.8,3,7,80,Stage-2_Urgent,15,21,-40.0
+P1029,Andhra Pradesh,Urban,44,Male,No,No,No,No,2.2,5,2,77,Stage-1_Stable,7,12,-71.4
+P1030,Kerala,Rural,26,Male,Yes,Yes,Yes,Yes,9.4,8,4,81,Stage-3_Critical,28,31,-10.7
+P1031,Bihar,Rural,56,Female,Yes,Yes,Yes,No,5.7,10,2,62,Stage-3_Critical,28,34,-21.4
+P1032,Bihar,Rural,78,Female,No,No,No,No,7.0,6,5,72,Stage-1_Stable,7,12,-71.4
+P1033,West Bengal,Urban,24,Female,No,Yes,No,No,1.7,2,6,86,Stage-1_Stable,7,3,57.1
+P1034,Tamil Nadu,Urban,76,Female,Yes,Yes,No,No,0.5,5,3,90,Stage-2_Urgent,15,19,-26.7
+P1035,Andhra Pradesh,Urban,45,Female,No,No,No,No,0.4,2,6,90,Stage-1_Stable,7,3,57.1
+P1036,Madhya Pradesh,Urban,53,Male,No,No,No,No,0.7,1,7,96,Stage-1_Stable,7,7,0.0
+P1037,Andhra Pradesh,Urban,29,Male,No,No,No,No,2.6,4,4,92,Stage-1_Stable,7,10,-42.9
+P1038,Tamil Nadu,Urban,59,Male,No,No,No,No,2.0,6,4,78,Stage-1_Stable,7,10,-42.9
+P1039,Kerala,Urban,30,Male,Yes,Yes,No,No,2.6,7,2,84,Stage-2_Urgent,15,12,20.0
+P1040,Telangana,Rural,36,Male,Yes,Yes,Yes,Yes,7.2,6,3,77,Stage-3_Critical,28,27,3.6
+P1041,Gujarat,Urban,66,Female,Yes,Yes,No,No,3.3,4,10,99,Stage-2_Urgent,15,18,-20.0
+P1042,Rajasthan,Rural,21,Female,Yes,Yes,No,No,9.0,10,2,61,Stage-2_Urgent,15,19,-26.7
+P1043,Telangana,Rural,47,Female,Yes,Yes,No,No,8.6,7,1,89,Stage-2_Urgent,15,20,-33.3
+P1044,Kerala,Urban,57,Male,No,No,No,No,3.2,4,4,92,Stage-1_Stable,7,6,14.3
+P1045,Kerala,Rural,26,Female,Yes,Yes,Yes,Yes,20.8,20,1,22,Stage-3_Critical,28,46,-64.3
+P1046,Kerala,Rural,37,Female,Yes,Yes,Yes,Yes,13.9,16,3,36,Stage-3_Critical,28,40,-42.9
+P1047,Tamil Nadu,Urban,41,Female,Yes,Yes,No,No,2.0,6,6,86,Stage-2_Urgent,15,13,13.3
+P1048,Kerala,Urban,62,Male,No,No,No,No,1.1,2,5,99,Stage-1_Stable,7,5,28.6
+P1049,Andhra Pradesh,Rural,83,Male,Yes,Yes,Yes,Yes,13.8,13,1,58,Stage-3_Critical,28,38,-35.7
+P1050,Rajasthan,Urban,74,Female,No,Yes,No,No,0.4,3,2,99,Stage-1_Stable,7,13,-85.7
+P1051,Assam,Urban,30,Male,Yes,Yes,No,No,4.9,5,5,87,Stage-2_Urgent,15,14,6.7
+P1052,Andhra Pradesh,Urban,19,Male,No,No,No,No,0.5,3,3,79,Stage-1_Stable,7,6,14.3
+P1053,Assam,Rural,21,Male,No,No,No,No,6.6,7,1,72,Stage-1_Stable,7,7,0.0
+P1054,Bihar,Rural,57,Female,No,No,No,No,3.7,3,8,80,Stage-1_Stable,7,6,14.3
+P1055,Gujarat,Rural,28,Female,No,Yes,No,No,2.8,2,3,74,Stage-1_Stable,7,6,14.3
+P1056,Andhra Pradesh,Rural,33,Male,Yes,Yes,Yes,Yes,7.7,11,5,68,Stage-3_Critical,28,36,-28.6
+P1057,Bihar,Urban,74,Male,Yes,Yes,No,No,2.4,3,4,91,Stage-2_Urgent,15,16,-6.7
+P1058,Kerala,Rural,76,Female,Yes,Yes,Yes,No,6.3,10,5,78,Stage-3_Critical,28,33,-17.9
+P1059,Punjab,Urban,74,Female,No,No,No,No,0.3,1,2,95,Stage-1_Stable,7,8,-14.3
+P1060,Andhra Pradesh,Urban,34,Female,No,No,No,No,1.1,3,7,98,Stage-1_Stable,7,5,28.6
+P1061,Assam,Rural,59,Male,Yes,Yes,Yes,Yes,2.9,9,6,73,Stage-3_Critical,28,37,-32.1
+P1062,Telangana,Urban,58,Female,No,No,No,No,0.8,0,4,93,Stage-1_Stable,7,7,0.0
+P1063,Maharashtra,Rural,30,Male,Yes,Yes,No,No,6.9,4,2,61,Stage-2_Urgent,15,19,-26.7
+P1064,Madhya Pradesh,Rural,55,Female,Yes,Yes,Yes,Yes,7.5,11,7,54,Stage-3_Critical,28,38,-35.7
+P1065,Andhra Pradesh,Rural,53,Male,Yes,Yes,Yes,Yes,12.5,11,4,60,Stage-3_Critical,28,34,-21.4
+P1066,Punjab,Rural,44,Male,Yes,Yes,Yes,Yes,8.8,9,3,57,Stage-3_Critical,28,32,-14.3
+P1067,Andhra Pradesh,Rural,68,Male,Yes,Yes,Yes,Yes,12.6,12,2,57,Stage-3_Critical,28,37,-32.1
+P1068,Andhra Pradesh,Urban,63,Male,Yes,Yes,No,No,2.4,4,3,93,Stage-2_Urgent,15,13,13.3
+P1069,West Bengal,Urban,53,Female,No,No,No,No,3.2,2,8,87,Stage-1_Stable,7,9,-28.6
+P1070,Kerala,Urban,66,Male,No,No,No,No,0.6,2,3,95,Stage-1_Stable,7,8,-14.3
+P1071,West Bengal,Urban,69,Male,Yes,Yes,No,No,3.2,5,4,77,Stage-2_Urgent,15,19,-26.7
+P1072,Bihar,Urban,55,Male,No,No,No,No,3.4,3,6,73,Stage-1_Stable,7,3,57.1
+P1073,Maharashtra,Rural,35,Female,No,No,No,No,5.9,5,7,82,Stage-1_Stable,7,13,-85.7
+P1074,Maharashtra,Urban,68,Female,No,No,No,No,0.8,2,4,88,Stage-1_Stable,7,6,14.3
+P1075,Punjab,Urban,66,Female,No,No,No,No,2.7,1,3,84,Stage-1_Stable,7,14,-100.0
+P1076,Karnataka,Urban,83,Female,Yes,Yes,No,No,1.3,2,9,99,Stage-2_Urgent,15,13,13.3
+P1077,Odisha,Urban,28,Female,Yes,Yes,No,No,3.8,5,5,70,Stage-2_Urgent,15,14,6.7
+P1078,Madhya Pradesh,Rural,46,Female,Yes,Yes,Yes,Yes,6.9,7,3,73,Stage-3_Critical,28,26,7.1
+P1079,Odisha,Rural,79,Male,Yes,Yes,No,No,6.1,6,5,68,Stage-2_Urgent,15,23,-53.3
+P1080,Rajasthan,Rural,52,Female,Yes,Yes,No,No,5.9,7,6,84,Stage-2_Urgent,15,15,0.0
+P1081,Maharashtra,Rural,81,Female,Yes,Yes,No,No,6.5,6,12,88,Stage-2_Urgent,15,17,-13.3
+P1082,Andhra Pradesh,Urban,18,Female,No,No,No,No,0.3,3,2,91,Stage-1_Stable,7,2,71.4
+P1083,West Bengal,Rural,20,Male,Yes,Yes,Yes,Yes,6.0,10,7,67,Stage-3_Critical,28,33,-17.9
+P1084,Tamil Nadu,Urban,71,Female,Yes,Yes,No,No,0.9,1,2,84,Stage-2_Urgent,15,18,-20.0
+P1085,Andhra Pradesh,Urban,42,Male,Yes,Yes,Yes,No,5.4,7,12,94,Stage-3_Critical,28,33,-17.9
+P1086,Madhya Pradesh,Urban,52,Male,No,No,No,No,2.0,3,6,99,Stage-1_Stable,7,4,42.9
+P1087,Kerala,Rural,46,Female,Yes,Yes,Yes,Yes,6.9,8,3,73,Stage-3_Critical,28,33,-17.9
+P1088,Tamil Nadu,Urban,45,Male,No,No,No,No,0.8,5,4,81,Stage-1_Stable,7,4,42.9
+P1089,Kerala,Urban,80,Male,No,No,No,No,0.7,3,6,96,Stage-1_Stable,7,8,-14.3
+P1090,Gujarat,Urban,24,Female,Yes,Yes,No,No,1.1,0,7,99,Stage-2_Urgent,15,8,46.7
+P1091,Maharashtra,Urban,69,Male,Yes,Yes,No,No,1.1,3,7,95,Stage-2_Urgent,15,17,-13.3
+P1092,Punjab,Rural,77,Female,Yes,Yes,Yes,Yes,11.4,14,6,67,Stage-3_Critical,28,42,-50.0
+P1093,Karnataka,Urban,62,Male,No,Yes,No,No,2.3,3,9,89,Stage-1_Stable,7,11,-57.1
+P1094,Assam,Urban,44,Male,No,No,No,No,1.6,5,5,87,Stage-1_Stable,7,5,28.6
+P1095,Madhya Pradesh,Urban,28,Female,No,No,No,No,2.8,3,8,97,Stage-1_Stable,7,6,14.3
+P1096,Rajasthan,Rural,63,Female,Yes,Yes,Yes,No,13.9,11,4,54,Stage-3_Critical,28,39,-39.3
+P1097,Karnataka,Urban,49,Male,Yes,Yes,No,No,4.7,6,2,69,Stage-2_Urgent,15,18,-20.0
+P1098,Kerala,Urban,28,Female,Yes,Yes,No,No,2.8,1,8,88,Stage-2_Urgent,15,10,33.3
+P1099,Maharashtra,Urban,42,Female,Yes,Yes,No,No,2.0,3,1,91,Stage-2_Urgent,15,12,20.0
+P1100,Rajasthan,Rural,82,Male,Yes,Yes,No,No,4.3,8,2,83,Stage-2_Urgent,15,25,-66.7
+P1101,Kerala,Rural,35,Female,Yes,Yes,Yes,Yes,16.0,12,2,54,Stage-3_Critical,28,38,-35.7
+P1102,Kerala,Rural,29,Male,Yes,Yes,No,No,5.7,4,6,96,Stage-2_Urgent,15,14,6.7
+P1103,Bihar,Urban,63,Female,No,Yes,No,No,1.4,1,10,99,Stage-1_Stable,7,5,28.6
+P1104,Telangana,Rural,31,Female,Yes,Yes,No,No,4.0,5,5,80,Stage-2_Urgent,15,21,-40.0
+P1105,West Bengal,Rural,79,Female,No,Yes,No,No,2.8,3,5,98,Stage-1_Stable,7,12,-71.4
+P1106,Punjab,Rural,75,Female,Yes,Yes,Yes,No,7.4,11,2,68,Stage-3_Critical,28,35,-25.0
+P1107,West Bengal,Urban,83,Male,Yes,Yes,No,No,3.1,6,6,77,Stage-2_Urgent,15,20,-33.3
+P1108,Tamil Nadu,Urban,79,Male,No,No,No,No,2.2,4,3,76,Stage-1_Stable,7,11,-57.1
+P1109,Uttar Pradesh,Urban,34,Male,No,Yes,No,No,1.6,3,3,91,Stage-1_Stable,7,5,28.6
+P1110,Maharashtra,Rural,32,Female,Yes,Yes,Yes,Yes,3.2,5,6,84,Stage-3_Critical,28,26,7.1
+P1111,Madhya Pradesh,Urban,40,Female,No,No,No,No,1.1,1,5,94,Stage-1_Stable,7,5,28.6
+P1112,Tamil Nadu,Urban,49,Male,No,No,No,No,2.0,5,6,97,Stage-1_Stable,7,10,-42.9
+P1113,Uttar Pradesh,Urban,76,Female,No,No,No,No,3.4,2,4,92,Stage-1_Stable,7,6,14.3
+P1114,Assam,Rural,67,Female,Yes,Yes,Yes,Yes,10.0,12,3,68,Stage-3_Critical,28,34,-21.4
+P1115,Odisha,Urban,61,Female,Yes,Yes,Yes,No,2.6,6,3,66,Stage-3_Critical,28,32,-14.3
+P1116,West Bengal,Rural,76,Male,Yes,Yes,No,No,4.1,6,4,81,Stage-2_Urgent,15,19,-26.7
+P1117,Odisha,Rural,61,Female,Yes,Yes,No,No,3.8,5,3,85,Stage-2_Urgent,15,22,-46.7
+P1118,Madhya Pradesh,Rural,43,Female,Yes,Yes,Yes,Yes,5.3,7,3,62,Stage-3_Critical,28,35,-25.0
+P1119,Bihar,Urban,45,Male,No,No,No,No,1.1,0,12,99,Stage-1_Stable,7,6,14.3
+P1120,Rajasthan,Rural,52,Male,Yes,Yes,Yes,Yes,4.8,6,12,83,Stage-3_Critical,28,30,-7.1
+P1121,Telangana,Rural,23,Male,Yes,Yes,No,No,4.2,5,6,83,Stage-2_Urgent,15,13,13.3
+P1122,Odisha,Rural,67,Male,Yes,Yes,Yes,No,8.0,9,4,80,Stage-3_Critical,28,31,-10.7
+P1123,West Bengal,Urban,61,Female,No,No,No,No,0.6,3,4,99,Stage-1_Stable,7,8,-14.3
+P1124,Tamil Nadu,Urban,66,Female,No,No,No,No,0.3,2,7,91,Stage-1_Stable,7,9,-28.6
+P1125,Bihar,Urban,53,Female,No,Yes,No,No,1.2,0,4,98,Stage-1_Stable,7,8,-14.3
+P1126,Assam,Urban,70,Male,No,No,No,No,1.2,2,12,99,Stage-1_Stable,7,6,14.3
+P1127,Odisha,Urban,81,Female,No,No,No,No,1.3,3,9,99,Stage-1_Stable,7,8,-14.3
+P1128,Gujarat,Urban,56,Male,Yes,Yes,No,No,2.7,4,4,88,Stage-2_Urgent,15,16,-6.7
+P1129,West Bengal,Urban,47,Female,Yes,Yes,Yes,No,3.2,5,6,88,Stage-3_Critical,28,31,-10.7
+P1130,Odisha,Rural,25,Male,Yes,Yes,Yes,Yes,9.0,12,1,70,Stage-3_Critical,28,29,-3.6
+P1131,Odisha,Urban,70,Male,No,No,No,No,2.6,2,3,95,Stage-1_Stable,7,10,-42.9
+P1132,Punjab,Rural,78,Female,Yes,Yes,No,No,9.1,10,6,57,Stage-2_Urgent,15,26,-73.3
+P1133,Bihar,Rural,64,Male,Yes,Yes,No,No,3.7,7,3,84,Stage-2_Urgent,15,16,-6.7
+P1134,Rajasthan,Urban,75,Female,No,No,No,No,2.4,0,7,99,Stage-1_Stable,7,2,71.4
+P1135,West Bengal,Rural,75,Female,No,No,No,No,4.5,6,7,85,Stage-1_Stable,7,11,-57.1
+P1136,Assam,Urban,71,Female,No,Yes,No,No,0.7,1,5,99,Stage-1_Stable,7,10,-42.9
+P1137,Tamil Nadu,Rural,51,Female,Yes,Yes,Yes,Yes,14.4,14,4,48,Stage-3_Critical,28,44,-57.1
+P1138,Tamil Nadu,Urban,24,Male,Yes,Yes,No,No,1.8,1,8,98,Stage-2_Urgent,15,11,26.7
+P1139,West Bengal,Rural,18,Female,Yes,Yes,Yes,No,5.2,6,5,79,Stage-3_Critical,28,33,-17.9
+P1140,Karnataka,Urban,31,Male,Yes,Yes,No,No,1.1,6,3,68,Stage-2_Urgent,15,16,-6.7
+P1141,Punjab,Urban,46,Female,No,No,No,No,0.6,0,8,99,Stage-1_Stable,7,6,14.3
+P1142,West Bengal,Urban,67,Male,Yes,Yes,No,No,2.0,1,2,82,Stage-2_Urgent,15,15,0.0
+P1143,Telangana,Rural,48,Male,Yes,Yes,Yes,Yes,14.2,12,2,37,Stage-3_Critical,28,39,-39.3
+P1144,Karnataka,Rural,19,Female,Yes,Yes,No,No,8.0,12,2,71,Stage-2_Urgent,15,17,-13.3
+P1145,Maharashtra,Urban,32,Male,No,No,No,No,2.4,3,9,98,Stage-1_Stable,7,2,71.4
+P1146,Maharashtra,Urban,83,Female,No,No,No,No,1.3,3,7,94,Stage-1_Stable,7,13,-85.7
+P1147,Assam,Urban,84,Female,No,No,No,No,0.4,1,4,89,Stage-1_Stable,7,7,0.0
+P1148,Tamil Nadu,Urban,43,Female,No,No,No,No,1.8,1,10,99,Stage-1_Stable,7,2,71.4
+P1149,Assam,Urban,71,Female,Yes,Yes,No,No,1.7,3,6,99,Stage-2_Urgent,15,13,13.3
+P1150,Gujarat,Urban,66,Female,Yes,Yes,No,No,0.3,7,7,84,Stage-2_Urgent,15,17,-13.3
+P1151,Maharashtra,Rural,80,Male,Yes,Yes,Yes,Yes,9.6,13,4,58,Stage-3_Critical,28,44,-57.1
+P1152,Gujarat,Rural,77,Male,Yes,Yes,Yes,Yes,9.3,8,4,72,Stage-3_Critical,28,41,-46.4
+P1153,Rajasthan,Urban,60,Male,Yes,Yes,No,No,3.2,6,2,63,Stage-2_Urgent,15,16,-6.7
+P1154,West Bengal,Rural,44,Female,Yes,Yes,Yes,No,8.3,7,3,67,Stage-3_Critical,28,32,-14.3
+P1155,Madhya Pradesh,Urban,59,Male,No,No,No,No,1.1,0,4,90,Stage-1_Stable,7,4,42.9
+P1156,Rajasthan,Rural,39,Male,Yes,Yes,Yes,No,14.8,17,3,39,Stage-3_Critical,28,43,-53.6
+P1157,West Bengal,Urban,41,Male,Yes,Yes,Yes,Yes,1.9,6,6,83,Stage-3_Critical,28,29,-3.6
+P1158,Rajasthan,Rural,58,Male,Yes,Yes,No,No,2.0,5,4,86,Stage-2_Urgent,15,15,0.0
+P1159,Assam,Rural,56,Male,Yes,Yes,Yes,No,10.2,10,2,73,Stage-3_Critical,28,35,-25.0
+P1160,West Bengal,Rural,56,Male,Yes,Yes,Yes,Yes,7.8,8,3,64,Stage-3_Critical,28,33,-17.9
+P1161,Tamil Nadu,Urban,43,Male,No,No,No,No,1.0,4,2,88,Stage-1_Stable,7,10,-42.9
+P1162,West Bengal,Rural,45,Male,Yes,Yes,Yes,Yes,10.4,12,3,72,Stage-3_Critical,28,36,-28.6
+P1163,Andhra Pradesh,Urban,18,Male,No,Yes,No,No,4.0,4,4,78,Stage-1_Stable,7,7,0.0
+P1164,Bihar,Urban,58,Male,Yes,Yes,No,No,1.0,0,7,99,Stage-2_Urgent,15,6,60.0
+P1165,Assam,Rural,56,Female,Yes,Yes,Yes,Yes,10.5,11,1,54,Stage-3_Critical,28,37,-32.1
+P1166,Odisha,Urban,80,Male,Yes,Yes,No,No,3.0,6,3,94,Stage-2_Urgent,15,24,-60.0
+P1167,Rajasthan,Rural,51,Male,Yes,Yes,No,No,4.0,3,5,91,Stage-2_Urgent,15,18,-20.0
+P1168,Gujarat,Rural,49,Male,Yes,Yes,No,No,2.1,5,4,87,Stage-2_Urgent,15,11,26.7
+P1169,Telangana,Urban,22,Female,No,Yes,No,No,2.0,4,3,84,Stage-1_Stable,7,4,42.9
+P1170,Kerala,Rural,31,Female,Yes,Yes,No,No,1.7,5,5,82,Stage-2_Urgent,15,11,26.7
+P1171,Gujarat,Urban,40,Female,Yes,Yes,Yes,No,0.9,4,10,98,Stage-3_Critical,28,30,-7.1
+P1172,West Bengal,Urban,43,Male,No,No,No,No,1.7,2,6,99,Stage-1_Stable,7,5,28.6
+P1173,Karnataka,Urban,42,Male,Yes,Yes,No,No,6.0,4,6,80,Stage-2_Urgent,15,14,6.7
+P1174,Karnataka,Rural,44,Male,Yes,Yes,Yes,Yes,8.4,8,3,63,Stage-3_Critical,28,34,-21.4
+P1175,Tamil Nadu,Urban,69,Female,Yes,Yes,No,No,1.8,5,12,96,Stage-2_Urgent,15,10,33.3
+P1176,Bihar,Urban,26,Female,No,No,No,No,1.3,2,6,99,Stage-1_Stable,7,2,71.4
+P1177,Maharashtra,Urban,40,Female,No,No,No,No,1.0,1,4,99,Stage-1_Stable,7,4,42.9
+P1178,Odisha,Rural,28,Female,No,No,No,No,5.1,2,5,78,Stage-1_Stable,7,8,-14.3
+P1179,Uttar Pradesh,Rural,38,Female,No,Yes,No,No,2.9,8,7,78,Stage-1_Stable,7,4,42.9
+P1180,Odisha,Rural,63,Female,Yes,Yes,Yes,Yes,11.1,13,1,53,Stage-3_Critical,28,38,-35.7
+P1181,Odisha,Rural,21,Female,Yes,Yes,No,No,2.8,6,6,97,Stage-2_Urgent,15,15,0.0
+P1182,Punjab,Rural,40,Male,Yes,Yes,Yes,Yes,10.0,12,5,69,Stage-3_Critical,28,31,-10.7
+P1183,Odisha,Urban,19,Male,Yes,Yes,No,No,0.8,3,9,88,Stage-2_Urgent,15,12,20.0
+P1184,Rajasthan,Urban,81,Female,No,No,No,No,1.3,2,11,99,Stage-1_Stable,7,8,-14.3
+P1185,Odisha,Rural,66,Male,Yes,Yes,Yes,Yes,16.4,16,4,32,Stage-3_Critical,28,49,-75.0
+P1186,Rajasthan,Rural,34,Male,Yes,Yes,Yes,Yes,9.6,9,4,61,Stage-3_Critical,28,33,-17.9
+P1187,Rajasthan,Urban,31,Female,Yes,Yes,Yes,No,2.0,9,6,96,Stage-3_Critical,28,27,3.6
+P1188,Gujarat,Urban,24,Male,Yes,Yes,No,No,2.1,5,3,72,Stage-2_Urgent,15,17,-13.3
+P1189,Bihar,Rural,49,Female,Yes,Yes,No,No,5.2,5,5,67,Stage-2_Urgent,15,15,0.0
+P1190,Madhya Pradesh,Urban,68,Female,Yes,Yes,No,No,1.2,4,2,79,Stage-2_Urgent,15,17,-13.3
+P1191,Uttar Pradesh,Rural,57,Male,No,No,No,No,4.6,4,3,81,Stage-1_Stable,7,8,-14.3
+P1192,Odisha,Urban,77,Female,Yes,Yes,No,No,2.5,7,6,89,Stage-2_Urgent,15,19,-26.7
+P1193,Tamil Nadu,Urban,41,Female,Yes,Yes,No,No,1.0,1,12,99,Stage-2_Urgent,15,14,6.7
+P1194,West Bengal,Rural,36,Female,Yes,Yes,Yes,Yes,8.2,10,6,77,Stage-3_Critical,28,33,-17.9
+P1195,Karnataka,Urban,50,Male,No,No,No,No,1.4,5,3,71,Stage-1_Stable,7,8,-14.3
+P1196,Rajasthan,Urban,31,Female,Yes,Yes,No,No,2.1,4,7,99,Stage-2_Urgent,15,12,20.0
+P1197,Karnataka,Rural,83,Female,Yes,Yes,No,No,6.0,7,3,70,Stage-2_Urgent,15,26,-73.3
+P1198,Uttar Pradesh,Rural,30,Female,Yes,Yes,Yes,No,10.8,11,4,64,Stage-3_Critical,28,32,-14.3
+P1199,Assam,Urban,50,Male,Yes,Yes,Yes,No,5.8,7,4,64,Stage-3_Critical,28,33,-17.9
+P1200,Karnataka,Urban,52,Male,Yes,Yes,No,No,0.5,1,4,94,Stage-2_Urgent,15,13,13.3
+P1201,Andhra Pradesh,Rural,21,Female,Yes,Yes,Yes,Yes,13.1,12,3,52,Stage-3_Critical,28,35,-25.0
+P1202,Madhya Pradesh,Rural,49,Male,Yes,Yes,Yes,Yes,11.0,14,2,60,Stage-3_Critical,28,33,-17.9
+P1203,Odisha,Urban,48,Male,No,No,No,No,2.7,4,6,75,Stage-1_Stable,7,12,-71.4
+P1204,Telangana,Urban,35,Male,No,No,No,No,0.8,1,4,93,Stage-1_Stable,7,2,71.4
+P1205,Maharashtra,Urban,26,Male,No,No,No,No,1.9,2,10,90,Stage-1_Stable,7,6,14.3
+P1206,Telangana,Urban,21,Male,No,No,No,No,1.5,5,4,90,Stage-1_Stable,7,3,57.1
+P1207,Andhra Pradesh,Urban,18,Male,Yes,Yes,Yes,No,1.5,4,3,92,Stage-3_Critical,28,23,17.9
+P1208,Karnataka,Rural,50,Female,Yes,Yes,No,No,1.4,4,10,99,Stage-2_Urgent,15,17,-13.3
+P1209,Madhya Pradesh,Urban,24,Male,Yes,Yes,No,No,1.8,3,7,88,Stage-2_Urgent,15,15,0.0
+P1210,Karnataka,Urban,82,Male,Yes,Yes,No,No,3.3,6,4,88,Stage-2_Urgent,15,20,-33.3
+P1211,Gujarat,Rural,34,Male,Yes,Yes,No,No,3.8,4,4,93,Stage-2_Urgent,15,15,0.0
+P1212,Madhya Pradesh,Rural,61,Female,Yes,Yes,No,No,4.2,5,5,69,Stage-2_Urgent,15,19,-26.7
+P1213,Bihar,Urban,63,Male,Yes,Yes,No,No,2.8,6,5,88,Stage-2_Urgent,15,17,-13.3
+P1214,Gujarat,Rural,51,Female,Yes,Yes,Yes,Yes,8.7,11,6,73,Stage-3_Critical,28,33,-17.9
+P1215,Karnataka,Rural,77,Female,Yes,Yes,Yes,Yes,16.4,14,1,35,Stage-3_Critical,28,47,-67.9
+P1216,Andhra Pradesh,Rural,25,Female,Yes,Yes,No,No,6.2,5,7,71,Stage-2_Urgent,15,14,6.7
+P1217,Uttar Pradesh,Urban,33,Female,No,No,No,No,1.1,3,1,93,Stage-1_Stable,7,8,-14.3
+P1218,Karnataka,Urban,34,Male,No,No,No,No,1.8,7,8,79,Stage-1_Stable,7,7,0.0
+P1219,Kerala,Rural,27,Female,Yes,Yes,No,No,5.3,2,2,77,Stage-2_Urgent,15,14,6.7
+P1220,Maharashtra,Urban,37,Male,No,No,No,No,0.8,3,6,93,Stage-1_Stable,7,7,0.0
+P1221,Kerala,Urban,38,Female,No,No,No,No,1.9,0,2,95,Stage-1_Stable,7,4,42.9
+P1222,Maharashtra,Urban,69,Female,Yes,Yes,Yes,No,5.9,6,2,67,Stage-3_Critical,28,34,-21.4
+P1223,Telangana,Rural,38,Female,Yes,Yes,Yes,Yes,19.1,18,1,21,Stage-3_Critical,28,44,-57.1
+P1224,Andhra Pradesh,Rural,76,Female,Yes,Yes,Yes,Yes,12.7,12,2,50,Stage-3_Critical,28,43,-53.6
+P1225,Andhra Pradesh,Urban,69,Male,No,No,No,No,0.9,1,7,99,Stage-1_Stable,7,5,28.6
+P1226,Kerala,Rural,78,Female,Yes,Yes,Yes,Yes,11.2,12,1,70,Stage-3_Critical,28,38,-35.7
+P1227,Maharashtra,Urban,25,Female,No,No,No,No,0.9,1,11,91,Stage-1_Stable,7,3,57.1
+P1228,Gujarat,Rural,83,Female,Yes,Yes,No,No,6.1,4,4,80,Stage-2_Urgent,15,23,-53.3
+P1229,Odisha,Rural,59,Male,Yes,Yes,Yes,Yes,13.5,15,1,34,Stage-3_Critical,28,42,-50.0
+P1230,Uttar Pradesh,Urban,83,Female,No,No,No,No,2.3,5,4,93,Stage-1_Stable,7,15,-114.3
+P1231,Karnataka,Urban,41,Male,No,No,No,No,0.5,4,4,82,Stage-1_Stable,7,6,14.3
+P1232,Tamil Nadu,Urban,81,Male,No,No,No,No,1.6,0,7,92,Stage-1_Stable,7,8,-14.3
+P1233,Punjab,Rural,57,Male,Yes,Yes,Yes,No,4.1,6,6,77,Stage-3_Critical,28,31,-10.7
+P1234,Gujarat,Rural,22,Female,No,No,No,No,2.7,5,4,83,Stage-1_Stable,7,2,71.4
+P1235,Kerala,Rural,45,Male,Yes,Yes,No,No,6.6,5,6,81,Stage-2_Urgent,15,14,6.7
+P1236,Madhya Pradesh,Rural,27,Male,No,No,No,No,1.4,3,3,91,Stage-1_Stable,7,3,57.1
+P1237,Telangana,Urban,81,Male,No,No,No,No,3.3,4,3,82,Stage-1_Stable,7,14,-100.0
+P1238,Kerala,Rural,38,Female,Yes,Yes,Yes,Yes,8.3,13,1,46,Stage-3_Critical,28,37,-32.1
+P1239,West Bengal,Urban,32,Male,Yes,Yes,No,No,1.9,7,4,89,Stage-2_Urgent,15,13,13.3
+P1240,Andhra Pradesh,Urban,55,Female,No,No,No,No,2.3,0,4,91,Stage-1_Stable,7,9,-28.6
+P1241,Punjab,Rural,46,Female,Yes,Yes,Yes,Yes,14.2,19,1,45,Stage-3_Critical,28,45,-60.7
+P1242,Andhra Pradesh,Rural,24,Female,Yes,Yes,No,No,5.0,4,7,79,Stage-2_Urgent,15,18,-20.0
+P1243,West Bengal,Urban,72,Female,Yes,Yes,Yes,No,2.6,6,2,67,Stage-3_Critical,28,32,-14.3
+P1244,Uttar Pradesh,Urban,74,Male,Yes,Yes,No,No,1.9,5,6,88,Stage-2_Urgent,15,17,-13.3
+P1245,Punjab,Rural,67,Male,Yes,Yes,Yes,No,6.5,5,1,81,Stage-3_Critical,28,37,-32.1
+P1246,Tamil Nadu,Rural,59,Male,Yes,Yes,Yes,No,7.2,9,6,73,Stage-3_Critical,28,35,-25.0
+P1247,Bihar,Rural,44,Female,Yes,Yes,Yes,Yes,8.2,9,3,63,Stage-3_Critical,28,33,-17.9
+P1248,Rajasthan,Urban,54,Female,Yes,Yes,Yes,No,3.4,6,4,74,Stage-3_Critical,28,33,-17.9
+P1249,Punjab,Urban,52,Female,Yes,Yes,No,No,2.3,4,6,99,Stage-2_Urgent,15,17,-13.3
+P1250,Maharashtra,Urban,29,Male,No,No,No,No,2.7,6,4,74,Stage-1_Stable,7,6,14.3
+P1251,Karnataka,Rural,23,Male,No,No,No,No,3.2,5,9,84,Stage-1_Stable,7,6,14.3
+P1252,Uttar Pradesh,Rural,34,Male,No,No,No,No,2.5,3,6,94,Stage-1_Stable,7,7,0.0
+P1253,Karnataka,Urban,48,Male,Yes,Yes,Yes,No,3.6,7,5,66,Stage-3_Critical,28,29,-3.6
+P1254,Assam,Urban,28,Male,Yes,Yes,No,No,3.5,6,5,92,Stage-2_Urgent,15,14,6.7
+P1255,Maharashtra,Urban,25,Female,Yes,Yes,Yes,Yes,7.1,9,4,74,Stage-3_Critical,28,28,0.0
+P1256,Assam,Rural,75,Male,Yes,Yes,Yes,Yes,15.4,14,1,47,Stage-3_Critical,28,40,-42.9
+P1257,West Bengal,Rural,43,Female,Yes,Yes,Yes,Yes,9.1,8,2,67,Stage-3_Critical,28,32,-14.3
+P1258,Madhya Pradesh,Urban,57,Male,Yes,Yes,No,No,2.2,2,4,87,Stage-2_Urgent,15,17,-13.3
+P1259,West Bengal,Urban,53,Male,No,No,No,No,5.3,5,9,77,Stage-1_Stable,7,9,-28.6
+P1260,Gujarat,Rural,67,Female,Yes,Yes,No,No,3.2,6,6,83,Stage-2_Urgent,15,17,-13.3
+P1261,Madhya Pradesh,Urban,67,Female,Yes,Yes,No,No,2.9,6,2,71,Stage-2_Urgent,15,20,-33.3
+P1262,Punjab,Rural,37,Male,No,Yes,No,No,6.8,7,5,77,Stage-1_Stable,7,7,0.0
+P1263,Tamil Nadu,Urban,74,Male,Yes,Yes,No,No,2.4,7,4,88,Stage-2_Urgent,15,20,-33.3
+P1264,Punjab,Urban,42,Male,Yes,Yes,No,No,1.4,5,5,99,Stage-2_Urgent,15,16,-6.7
+P1265,Madhya Pradesh,Rural,73,Female,Yes,Yes,No,No,3.6,5,5,86,Stage-2_Urgent,15,18,-20.0
+P1266,Uttar Pradesh,Urban,45,Male,Yes,Yes,No,No,2.2,2,5,97,Stage-2_Urgent,15,13,13.3
+P1267,Telangana,Urban,25,Female,Yes,Yes,No,No,3.5,8,6,79,Stage-2_Urgent,15,17,-13.3
+P1268,Rajasthan,Urban,68,Male,Yes,Yes,No,No,0.3,2,10,98,Stage-2_Urgent,15,10,33.3
+P1269,Uttar Pradesh,Urban,20,Female,No,No,No,No,0.3,2,7,99,Stage-1_Stable,7,3,57.1
+P1270,Kerala,Urban,69,Male,No,No,No,No,1.9,3,8,91,Stage-1_Stable,7,16,-128.6
+P1271,Punjab,Urban,20,Female,No,No,No,No,0.9,1,7,99,Stage-1_Stable,7,2,71.4
+P1272,Bihar,Urban,31,Female,Yes,Yes,No,No,2.0,0,4,83,Stage-2_Urgent,15,12,20.0
+P1273,Madhya Pradesh,Urban,58,Male,No,No,No,No,1.2,4,8,87,Stage-1_Stable,7,10,-42.9
+P1274,Karnataka,Rural,81,Male,Yes,Yes,No,No,7.7,7,2,72,Stage-2_Urgent,15,27,-80.0
+P1275,Karnataka,Rural,45,Female,Yes,Yes,Yes,Yes,13.0,19,2,47,Stage-3_Critical,28,43,-53.6
+P1276,Tamil Nadu,Urban,26,Male,Yes,Yes,No,No,4.2,3,4,75,Stage-2_Urgent,15,9,40.0
+P1277,Punjab,Urban,33,Male,No,Yes,No,No,0.4,0,2,97,Stage-1_Stable,7,4,42.9
+P1278,Tamil Nadu,Urban,78,Male,Yes,Yes,No,No,2.9,5,2,76,Stage-2_Urgent,15,26,-73.3
+P1279,West Bengal,Rural,66,Male,Yes,Yes,Yes,Yes,9.4,13,5,60,Stage-3_Critical,28,40,-42.9
+P1280,Andhra Pradesh,Rural,24,Male,Yes,Yes,Yes,No,8.0,9,2,75,Stage-3_Critical,28,28,0.0
+P1281,Telangana,Urban,43,Male,Yes,Yes,No,No,2.6,5,5,92,Stage-2_Urgent,15,15,0.0
+P1282,Assam,Urban,35,Male,Yes,Yes,No,No,1.7,0,7,99,Stage-2_Urgent,15,8,46.7
+P1283,Assam,Urban,29,Male,No,No,No,No,0.7,1,4,99,Stage-1_Stable,7,6,14.3
+P1284,Odisha,Urban,74,Male,Yes,Yes,No,No,1.9,1,3,83,Stage-2_Urgent,15,15,0.0
+P1285,Bihar,Rural,59,Male,Yes,Yes,Yes,No,6.5,4,1,64,Stage-3_Critical,28,33,-17.9
+P1286,Andhra Pradesh,Urban,30,Female,Yes,Yes,No,No,4.4,6,7,77,Stage-2_Urgent,15,14,6.7
+P1287,Andhra Pradesh,Urban,61,Male,No,No,No,No,1.3,0,9,99,Stage-1_Stable,7,4,42.9
+P1288,Assam,Urban,45,Male,Yes,Yes,Yes,Yes,7.0,5,6,58,Stage-3_Critical,28,37,-32.1
+P1289,Rajasthan,Urban,22,Male,Yes,Yes,Yes,No,3.4,3,2,80,Stage-3_Critical,28,27,3.6
+P1290,Tamil Nadu,Urban,48,Female,Yes,Yes,No,No,0.9,1,5,90,Stage-2_Urgent,15,12,20.0
+P1291,Karnataka,Rural,30,Male,Yes,Yes,No,No,4.9,7,6,85,Stage-2_Urgent,15,13,13.3
+P1292,West Bengal,Urban,34,Male,No,No,No,No,1.6,4,4,90,Stage-1_Stable,7,2,71.4
+P1293,Andhra Pradesh,Rural,76,Male,Yes,Yes,Yes,Yes,6.4,9,5,67,Stage-3_Critical,28,33,-17.9
+P1294,Uttar Pradesh,Urban,65,Male,Yes,Yes,Yes,No,2.4,5,6,92,Stage-3_Critical,28,30,-7.1
+P1295,Gujarat,Rural,26,Male,Yes,Yes,No,No,3.6,7,3,83,Stage-2_Urgent,15,17,-13.3
+P1296,Maharashtra,Rural,75,Male,Yes,Yes,Yes,No,4.9,6,3,70,Stage-3_Critical,28,33,-17.9
+P1297,Andhra Pradesh,Rural,56,Female,Yes,Yes,Yes,No,7.5,9,4,64,Stage-3_Critical,28,39,-39.3
+P1298,Madhya Pradesh,Rural,76,Female,Yes,Yes,No,No,2.8,5,7,70,Stage-2_Urgent,15,19,-26.7
+P1299,Kerala,Rural,68,Male,Yes,Yes,No,No,6.1,7,7,69,Stage-2_Urgent,15,21,-40.0
+P1300,West Bengal,Rural,40,Female,Yes,Yes,Yes,No,6.8,7,5,68,Stage-3_Critical,28,29,-3.6
+P1301,Karnataka,Rural,53,Female,Yes,Yes,Yes,No,3.4,4,1,79,Stage-3_Critical,28,32,-14.3
+P1302,Karnataka,Urban,53,Male,No,No,No,No,0.5,0,2,84,Stage-1_Stable,7,11,-57.1
+P1303,Telangana,Urban,66,Male,No,No,No,No,0.9,3,10,95,Stage-1_Stable,7,3,57.1
+P1304,Tamil Nadu,Urban,34,Male,No,No,No,No,1.2,2,3,79,Stage-1_Stable,7,5,28.6
+P1305,Gujarat,Rural,40,Female,Yes,Yes,No,No,4.7,4,4,82,Stage-2_Urgent,15,19,-26.7
+P1306,Tamil Nadu,Urban,34,Male,Yes,Yes,No,No,1.2,1,4,95,Stage-2_Urgent,15,8,46.7
+P1307,Bihar,Urban,37,Female,Yes,Yes,No,No,2.1,1,9,99,Stage-2_Urgent,15,13,13.3
+P1308,Telangana,Rural,28,Male,Yes,Yes,Yes,No,5.4,8,2,71,Stage-3_Critical,28,33,-17.9
+P1309,Assam,Urban,20,Female,Yes,Yes,No,No,2.1,4,7,78,Stage-2_Urgent,15,14,6.7
+P1310,Kerala,Urban,80,Female,No,No,No,No,0.3,0,7,95,Stage-1_Stable,7,9,-28.6
+P1311,Rajasthan,Urban,22,Male,Yes,Yes,No,No,0.9,4,5,87,Stage-2_Urgent,15,17,-13.3
+P1312,Bihar,Urban,77,Male,No,No,No,No,0.5,1,4,90,Stage-1_Stable,7,13,-85.7
+P1313,Tamil Nadu,Urban,18,Female,No,Yes,No,No,3.4,2,4,87,Stage-1_Stable,7,4,42.9
+P1314,Gujarat,Urban,70,Male,No,No,No,No,1.0,4,5,99,Stage-1_Stable,7,6,14.3
+P1315,Tamil Nadu,Urban,40,Male,Yes,Yes,No,No,2.5,3,4,93,Stage-2_Urgent,15,11,26.7
+P1316,Karnataka,Urban,52,Female,No,No,No,No,0.4,1,6,89,Stage-1_Stable,7,8,-14.3
+P1317,Assam,Urban,36,Male,Yes,Yes,No,No,4.3,5,5,87,Stage-2_Urgent,15,11,26.7
+P1318,Odisha,Rural,50,Male,Yes,Yes,Yes,Yes,5.6,9,6,80,Stage-3_Critical,28,31,-10.7
+P1319,Punjab,Urban,48,Male,Yes,Yes,Yes,Yes,1.7,3,7,86,Stage-3_Critical,28,28,0.0
+P1320,Karnataka,Rural,53,Male,Yes,Yes,No,No,7.2,6,5,81,Stage-2_Urgent,15,17,-13.3
+P1321,Kerala,Rural,44,Female,Yes,Yes,Yes,No,9.0,11,3,59,Stage-3_Critical,28,36,-28.6
+P1322,Maharashtra,Urban,53,Female,No,No,No,No,1.4,2,8,85,Stage-1_Stable,7,13,-85.7
+P1323,Gujarat,Urban,73,Male,No,Yes,No,No,0.8,6,4,90,Stage-1_Stable,7,9,-28.6
+P1324,Bihar,Urban,47,Male,Yes,Yes,No,No,3.2,4,9,93,Stage-2_Urgent,15,14,6.7
+P1325,Andhra Pradesh,Rural,42,Female,Yes,Yes,Yes,Yes,12.2,8,1,52,Stage-3_Critical,28,38,-35.7
+P1326,Andhra Pradesh,Rural,26,Male,Yes,Yes,Yes,Yes,11.9,13,3,51,Stage-3_Critical,28,37,-32.1
+P1327,Andhra Pradesh,Rural,42,Male,Yes,Yes,Yes,Yes,14.6,19,3,32,Stage-3_Critical,28,46,-64.3
+P1328,Rajasthan,Urban,26,Male,No,No,No,No,1.3,6,6,93,Stage-1_Stable,7,5,28.6
+P1329,Odisha,Rural,30,Male,Yes,Yes,No,No,4.4,9,3,73,Stage-2_Urgent,15,17,-13.3
+P1330,Rajasthan,Urban,81,Female,No,No,No,No,1.2,1,10,99,Stage-1_Stable,7,3,57.1
+P1331,West Bengal,Rural,23,Male,Yes,Yes,Yes,Yes,11.7,14,3,53,Stage-3_Critical,28,32,-14.3
+P1332,Punjab,Urban,50,Male,No,No,No,No,1.3,1,4,83,Stage-1_Stable,7,2,71.4
+P1333,Madhya Pradesh,Rural,73,Female,Yes,Yes,No,No,6.2,8,3,63,Stage-2_Urgent,15,24,-60.0
+P1334,Madhya Pradesh,Rural,81,Male,Yes,Yes,Yes,Yes,8.9,7,2,47,Stage-3_Critical,28,36,-28.6
+P1335,Rajasthan,Urban,27,Female,No,No,No,No,0.7,1,6,99,Stage-1_Stable,7,5,28.6
+P1336,Kerala,Rural,28,Male,Yes,Yes,No,No,3.0,3,6,79,Stage-2_Urgent,15,14,6.7
+P1337,Punjab,Urban,42,Male,No,No,No,No,1.0,4,4,90,Stage-1_Stable,7,5,28.6
+P1338,Uttar Pradesh,Rural,55,Male,Yes,Yes,No,No,6.2,9,2,71,Stage-2_Urgent,15,18,-20.0
+P1339,Madhya Pradesh,Urban,82,Female,Yes,Yes,No,No,2.6,4,6,93,Stage-2_Urgent,15,20,-33.3
+P1340,Odisha,Rural,31,Female,No,No,No,No,9.0,7,5,59,Stage-1_Stable,7,10,-42.9
+P1341,Telangana,Urban,29,Male,Yes,Yes,No,No,2.1,3,5,88,Stage-2_Urgent,15,10,33.3
+P1342,Uttar Pradesh,Rural,34,Male,Yes,Yes,No,No,8.4,8,3,79,Stage-2_Urgent,15,21,-40.0
+P1343,Telangana,Rural,76,Male,Yes,Yes,Yes,Yes,10.0,12,2,69,Stage-3_Critical,28,39,-39.3
+P1344,Andhra Pradesh,Rural,20,Female,Yes,Yes,Yes,Yes,20.3,22,1,26,Stage-3_Critical,28,43,-53.6
+P1345,Gujarat,Rural,43,Male,Yes,Yes,Yes,Yes,6.5,9,8,79,Stage-3_Critical,28,33,-17.9
+P1346,Karnataka,Rural,25,Female,Yes,Yes,Yes,Yes,12.3,11,1,42,Stage-3_Critical,28,36,-28.6
+P1347,Karnataka,Rural,28,Female,No,No,No,No,7.7,3,1,76,Stage-1_Stable,7,9,-28.6
+P1348,Madhya Pradesh,Urban,79,Female,No,No,No,No,1.8,0,4,91,Stage-1_Stable,7,6,14.3
+P1349,Punjab,Rural,18,Male,Yes,Yes,No,No,6.6,10,5,74,Stage-2_Urgent,15,22,-46.7
+P1350,Andhra Pradesh,Urban,39,Male,No,Yes,No,No,2.0,2,6,87,Stage-1_Stable,7,4,42.9
+P1351,Uttar Pradesh,Rural,79,Male,Yes,Yes,No,No,6.1,5,4,75,Stage-2_Urgent,15,25,-66.7
+P1352,Karnataka,Urban,58,Female,Yes,Yes,No,No,2.8,7,5,84,Stage-2_Urgent,15,17,-13.3
+P1353,West Bengal,Rural,22,Female,Yes,Yes,No,No,4.6,8,3,76,Stage-2_Urgent,15,18,-20.0
+P1354,Telangana,Rural,49,Female,Yes,Yes,No,No,3.0,4,6,91,Stage-2_Urgent,15,17,-13.3
+P1355,Gujarat,Urban,83,Male,No,No,No,No,1.1,2,6,89,Stage-1_Stable,7,12,-71.4
+P1356,Odisha,Urban,44,Male,Yes,Yes,No,No,2.4,3,5,78,Stage-2_Urgent,15,13,13.3
+P1357,Maharashtra,Rural,53,Female,Yes,Yes,No,No,5.1,7,8,95,Stage-2_Urgent,15,19,-26.7
+P1358,Andhra Pradesh,Rural,53,Female,Yes,Yes,No,No,6.4,10,8,95,Stage-2_Urgent,15,23,-53.3
+P1359,Uttar Pradesh,Urban,62,Female,Yes,Yes,Yes,Yes,4.3,6,3,81,Stage-3_Critical,28,31,-10.7
+P1360,Uttar Pradesh,Rural,30,Female,Yes,Yes,Yes,No,6.3,9,4,60,Stage-3_Critical,28,33,-17.9
+P1361,Odisha,Rural,74,Male,Yes,Yes,Yes,Yes,5.2,9,7,71,Stage-3_Critical,28,34,-21.4
+P1362,Karnataka,Urban,84,Male,Yes,Yes,No,No,2.0,1,6,97,Stage-2_Urgent,15,16,-6.7
+P1363,Andhra Pradesh,Urban,27,Male,No,No,No,No,1.8,5,6,99,Stage-1_Stable,7,8,-14.3
+P1364,Karnataka,Urban,72,Female,No,No,No,No,1.7,2,4,80,Stage-1_Stable,7,7,0.0
+P1365,Karnataka,Rural,72,Female,No,Yes,No,No,5.3,1,6,85,Stage-1_Stable,7,7,0.0
+P1366,Maharashtra,Urban,67,Male,Yes,Yes,No,No,1.5,0,7,99,Stage-2_Urgent,15,18,-20.0
+P1367,Kerala,Rural,42,Female,Yes,Yes,Yes,Yes,16.7,14,1,43,Stage-3_Critical,28,42,-50.0
+P1368,Uttar Pradesh,Rural,49,Female,Yes,Yes,Yes,Yes,7.9,10,1,58,Stage-3_Critical,28,41,-46.4
+P1369,Assam,Urban,74,Female,No,No,No,No,1.6,3,6,79,Stage-1_Stable,7,9,-28.6
+P1370,Telangana,Rural,28,Female,No,No,No,No,1.9,4,6,95,Stage-1_Stable,7,4,42.9
+P1371,Rajasthan,Rural,73,Male,Yes,Yes,Yes,Yes,6.5,11,4,76,Stage-3_Critical,28,34,-21.4
+P1372,Rajasthan,Urban,79,Male,No,No,No,No,2.0,1,2,87,Stage-1_Stable,7,10,-42.9
+P1373,Uttar Pradesh,Urban,63,Female,No,No,No,No,1.5,3,4,92,Stage-1_Stable,7,3,57.1
+P1374,Tamil Nadu,Urban,40,Female,No,No,No,No,0.9,3,3,85,Stage-1_Stable,7,8,-14.3
+P1375,Kerala,Urban,55,Male,No,No,No,No,0.5,0,10,97,Stage-1_Stable,7,6,14.3
+P1376,Uttar Pradesh,Urban,21,Male,No,No,No,No,2.6,4,4,93,Stage-1_Stable,7,4,42.9
+P1377,Gujarat,Rural,80,Female,Yes,Yes,No,No,7.2,5,2,74,Stage-2_Urgent,15,21,-40.0
+P1378,Tamil Nadu,Urban,40,Female,Yes,Yes,Yes,No,2.8,7,2,82,Stage-3_Critical,28,27,3.6
+P1379,Bihar,Urban,21,Male,No,No,No,No,1.2,1,5,99,Stage-1_Stable,7,4,42.9
+P1380,Kerala,Rural,71,Female,Yes,Yes,Yes,Yes,6.8,12,2,54,Stage-3_Critical,28,35,-25.0
+P1381,Rajasthan,Rural,62,Male,No,No,No,No,3.1,4,2,77,Stage-1_Stable,7,11,-57.1
+P1382,Telangana,Rural,59,Male,Yes,Yes,Yes,Yes,10.8,13,2,54,Stage-3_Critical,28,44,-57.1
+P1383,Punjab,Rural,21,Female,Yes,Yes,No,No,6.2,7,3,67,Stage-2_Urgent,15,21,-40.0
+P1384,West Bengal,Urban,68,Male,No,No,No,No,1.3,3,7,99,Stage-1_Stable,7,3,57.1
+P1385,West Bengal,Urban,60,Female,Yes,Yes,No,No,2.9,3,3,83,Stage-2_Urgent,15,15,0.0
+P1386,Gujarat,Rural,71,Male,Yes,Yes,No,No,3.3,5,3,73,Stage-2_Urgent,15,21,-40.0
+P1387,Tamil Nadu,Rural,73,Female,No,No,No,No,4.5,6,4,79,Stage-1_Stable,7,12,-71.4
+P1388,Odisha,Rural,32,Male,Yes,Yes,Yes,Yes,8.1,7,3,69,Stage-3_Critical,28,28,0.0
+P1389,Odisha,Urban,32,Female,No,No,No,No,0.9,2,9,99,Stage-1_Stable,7,4,42.9
+P1390,Kerala,Rural,79,Male,Yes,Yes,No,No,4.9,5,3,80,Stage-2_Urgent,15,20,-33.3
+P1391,West Bengal,Rural,53,Female,Yes,Yes,No,No,5.1,11,11,85,Stage-2_Urgent,15,24,-60.0
+P1392,Gujarat,Urban,47,Male,No,No,No,No,2.6,4,6,91,Stage-1_Stable,7,6,14.3
+P1393,Tamil Nadu,Rural,37,Male,Yes,Yes,Yes,Yes,19.4,22,2,20,Stage-3_Critical,28,49,-75.0
+P1394,Punjab,Rural,60,Male,Yes,Yes,Yes,Yes,7.1,7,8,72,Stage-3_Critical,28,30,-7.1
+P1395,Karnataka,Urban,68,Female,No,No,No,No,0.8,3,5,94,Stage-1_Stable,7,5,28.6
+P1396,Rajasthan,Urban,18,Male,No,No,No,No,3.9,2,3,81,Stage-1_Stable,7,6,14.3
+P1397,Punjab,Rural,55,Female,Yes,Yes,No,No,6.4,6,3,86,Stage-2_Urgent,15,20,-33.3
+P1398,Assam,Urban,84,Female,No,No,No,No,2.1,4,4,97,Stage-1_Stable,7,7,0.0
+P1399,Andhra Pradesh,Urban,36,Female,Yes,Yes,Yes,No,3.2,8,6,87,Stage-3_Critical,28,29,-3.6
+P1400,Rajasthan,Urban,36,Female,Yes,Yes,No,No,4.0,6,4,82,Stage-2_Urgent,15,12,20.0
