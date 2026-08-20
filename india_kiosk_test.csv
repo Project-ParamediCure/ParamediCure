@@ -1,0 +1,181 @@
+PatientID,State,Region_Type,Age,Gender,Income_Level,Insurance,Chronic_Condition,Kiosks_per_10k_pop,Kiosk_Access_Level,Distance_to_Kiosk_km,Diagnosis_Delay_Days,Consultations_Per_Year,Treatment_Adherence_pct,Outcome
+P100279,Uttar Pradesh,Rural,23,Female,Low,No,Diabetes,3.07,Medium,3.1,4.8,4,63.5,Stable
+P100304,Madhya Pradesh,Rural,67,Male,Middle,No,Respiratory,4.05,Medium,4.6,0.5,2,70.9,Worsened
+P100280,West Bengal,Urban,84,Female,Middle,Yes,Hypertension,7.4,High,1.2,0.5,10,67.5,Stable
+P100757,Kerala,Rural,35,Female,Middle,No,Cardiac,0.27,Low,21.6,20.0,2,56.3,Worsened
+P100463,Kerala,Urban,43,Female,Low,No,,4.75,Medium,2.9,0.5,2,51.5,Stable
+P100375,Rajasthan,Urban,37,Male,Low,No,,8.81,High,1.5,0.5,8,68.6,Stable
+P100715,Tamil Nadu,Urban,40,Male,Low,Yes,,12.27,High,4.2,0.5,14,77.1,Improved
+P100451,Maharashtra,Rural,78,Male,Low,No,Hypertension,6.19,High,4.1,0.5,6,73.1,Improved
+P100183,Maharashtra,Urban,49,Male,Low,Yes,Diabetes,3.29,Medium,5.9,10.1,4,50.7,Worsened
+P100686,Uttar Pradesh,Urban,74,Female,Middle,No,Respiratory,4.99,Medium,1.9,0.5,8,81.1,Improved
+P100516,Odisha,Urban,81,Male,Middle,Yes,,2.61,Medium,7.9,5.5,5,45.8,Stable
+P100321,West Bengal,Rural,62,Male,Low,No,Respiratory,2.88,Medium,5.4,4.0,5,66.2,Stable
+P100791,Tamil Nadu,Urban,71,Female,Middle,No,Hypertension,1.61,Low,10.3,6.7,3,59.5,Improved
+P100645,West Bengal,Rural,62,Male,Middle,No,Cardiac,0.88,Low,12.0,14.5,0,64.9,Worsened
+P100402,Punjab,Rural,59,Male,High,No,,3.29,Medium,5.3,0.5,2,53.1,Improved
+P100025,Bihar,Urban,47,Male,Middle,Yes,,9.72,High,0.4,2.9,12,88.6,Improved
+P100237,West Bengal,Rural,67,Male,Low,Yes,Diabetes,0.68,Low,17.0,23.2,0,33.4,Worsened
+P100844,Karnataka,Urban,25,Male,Middle,Yes,Respiratory,5.26,High,1.4,4.6,5,67.2,Improved
+P100679,Uttar Pradesh,Urban,32,Female,High,No,Cardiac,3.03,Medium,3.9,6.4,6,82.4,Improved
+P100007,Odisha,Rural,53,Male,Low,Yes,Respiratory,1.31,Low,13.3,11.7,3,47.7,Stable
+P100674,Punjab,Rural,25,Female,Low,No,Hypertension,2.53,Medium,8.6,10.0,0,62.9,Worsened
+P100589,Madhya Pradesh,Urban,68,Female,Low,Yes,Hypertension,2.5,Medium,4.6,8.2,4,68.6,Improved
+P100414,Punjab,Urban,44,Female,Low,No,Respiratory,3.92,Medium,2.4,0.5,2,69.9,Stable
+P100714,West Bengal,Rural,56,Female,Low,No,Respiratory,0.9,Low,14.0,11.7,1,44.4,Stable
+P100768,Punjab,Urban,39,Male,High,No,Diabetes,1.79,Low,10.0,20.1,5,39.2,Worsened
+P100333,Punjab,Rural,52,Female,Low,Yes,Diabetes,2.9,Medium,5.3,3.8,3,56.9,Improved
+P100637,Tamil Nadu,Rural,64,Male,Middle,No,Hypertension,0.91,Low,14.4,11.3,1,54.6,Stable
+P100466,West Bengal,Rural,20,Male,Middle,Yes,,1.07,Low,15.2,16.9,2,49.7,Improved
+P100332,Bihar,Rural,33,Female,Middle,Yes,,2.86,Medium,4.6,10.5,4,55.2,Improved
+P100586,Maharashtra,Urban,71,Male,Low,No,Hypertension,2.9,Medium,6.0,6.7,3,52.7,Stable
+P100182,Gujarat,Rural,51,Male,Middle,Yes,Diabetes,1.52,Low,8.2,8.5,2,47.8,Improved
+P100759,Karnataka,Rural,28,Female,Middle,Yes,,0.2,Low,24.2,20.6,2,54.4,Stable
+P100452,Tamil Nadu,Rural,68,Male,Low,No,,1.53,Low,7.0,8.1,4,56.4,Stable
+P100818,Madhya Pradesh,Rural,77,Male,Low,Yes,Cardiac,2.58,Medium,5.8,3.1,3,65.0,Improved
+P100437,Karnataka,Rural,61,Female,High,No,Respiratory,3.42,Medium,1.1,0.5,2,58.2,Stable
+P100773,Gujarat,Rural,19,Female,Middle,Yes,Diabetes,0.88,Low,16.5,14.5,1,64.7,Improved
+P100631,Tamil Nadu,Rural,29,Female,Low,No,Diabetes,4.06,Medium,3.6,0.5,3,57.2,Stable
+P100086,Kerala,Rural,83,Female,Low,Yes,Cardiac,0.58,Low,16.9,13.2,2,52.2,Worsened
+P100750,Gujarat,Urban,65,Female,Low,No,Respiratory,6.61,High,1.9,1.6,10,76.8,Stable
+P100334,Karnataka,Urban,59,Female,Middle,Yes,Diabetes,4.86,Medium,3.3,4.8,4,55.6,Stable
+P100144,Punjab,Rural,49,Female,Middle,No,Diabetes,2.05,Medium,8.8,5.9,2,54.2,Improved
+P100785,Maharashtra,Urban,73,Male,Middle,No,Hypertension,4.19,Medium,1.9,4.9,5,43.4,Improved
+P100055,Punjab,Rural,68,Female,Middle,Yes,Respiratory,3.49,Medium,4.5,1.1,5,54.6,Stable
+P100123,Bihar,Urban,76,Male,High,Yes,Diabetes,5.35,High,3.0,9.8,6,58.0,Improved
+P100407,Gujarat,Rural,54,Male,Low,No,Respiratory,1.27,Low,10.6,13.6,2,49.3,Worsened
+P100795,Madhya Pradesh,Urban,77,Female,Low,No,Respiratory,4.04,Medium,2.6,2.7,6,68.8,Improved
+P100296,Maharashtra,Rural,65,Female,Middle,No,Cardiac,1.56,Low,10.2,6.8,2,47.0,Worsened
+P100836,Rajasthan,Rural,51,Female,Low,Yes,Diabetes,1.73,Low,10.2,12.8,1,31.7,Stable
+P100761,West Bengal,Urban,74,Male,High,Yes,,3.59,Medium,6.1,0.5,2,57.5,Improved
+P100420,Odisha,Rural,26,Male,Middle,No,Diabetes,1.63,Low,7.6,8.1,3,60.4,Stable
+P100114,Tamil Nadu,Urban,68,Male,Low,Yes,Respiratory,6.58,High,2.0,0.5,13,97.9,Improved
+P100023,Gujarat,Rural,56,Female,Middle,Yes,Respiratory,0.56,Low,14.4,9.2,2,57.3,Improved
+P100493,Punjab,Urban,23,Male,Low,Yes,Hypertension,2.23,Medium,8.6,3.8,2,58.4,Improved
+P100277,Tamil Nadu,Rural,56,Male,Middle,No,,0.35,Low,21.5,23.4,2,44.2,Worsened
+P100301,Kerala,Urban,26,Male,Low,No,Respiratory,8.78,High,1.2,0.8,10,86.0,Stable
+P100746,Uttar Pradesh,Urban,32,Male,High,No,Respiratory,3.11,Medium,5.8,0.5,2,59.9,Stable
+P100373,West Bengal,Urban,68,Female,Low,No,,5.26,High,7.2,9.7,3,44.1,Worsened
+P100325,Maharashtra,Rural,59,Male,Low,No,,1.7,Low,7.3,12.4,2,61.7,Improved
+P100730,Kerala,Urban,49,Female,Middle,No,Hypertension,15.0,High,0.3,0.5,11,75.9,Stable
+P100712,Rajasthan,Rural,84,Male,Middle,No,,4.47,Medium,4.6,8.5,2,39.5,Worsened
+P100739,Madhya Pradesh,Urban,29,Male,Middle,No,,2.57,Medium,7.6,7.4,2,54.9,Stable
+P100825,Uttar Pradesh,Urban,49,Male,High,Yes,Respiratory,12.06,High,4.5,0.5,13,82.0,Improved
+P100413,Gujarat,Rural,24,Male,High,No,Hypertension,1.84,Low,5.5,13.6,2,38.2,Worsened
+P100641,Kerala,Rural,53,Male,Low,No,Diabetes,0.62,Low,16.4,17.4,1,41.8,Stable
+P100417,Kerala,Rural,73,Male,Middle,No,Diabetes,0.92,Low,13.9,17.0,0,38.1,Worsened
+P100426,Gujarat,Urban,40,Male,High,No,Diabetes,5.4,High,5.5,6.4,1,46.2,Stable
+P100299,Rajasthan,Rural,71,Male,High,Yes,Respiratory,1.16,Low,10.7,10.5,3,55.8,Worsened
+P100408,Maharashtra,Urban,39,Male,Low,No,Hypertension,3.83,Medium,7.3,6.2,6,59.7,Improved
+P100704,Uttar Pradesh,Urban,49,Male,Low,No,Respiratory,6.46,High,8.6,11.1,6,57.1,Stable
+P100813,West Bengal,Rural,35,Female,Low,No,Diabetes,1.98,Low,7.9,13.1,3,47.8,Stable
+P100625,Madhya Pradesh,Urban,64,Male,Middle,Yes,Diabetes,5.06,High,3.3,1.9,5,46.7,Worsened
+P100776,Maharashtra,Rural,37,Male,Low,No,,3.87,Medium,1.6,11.1,2,53.7,Worsened
+P100177,Uttar Pradesh,Rural,79,Male,Middle,Yes,Diabetes,2.0,Low,5.5,5.1,1,50.4,Stable
+P100306,Kerala,Urban,53,Male,High,No,Hypertension,6.8,High,0.3,0.5,5,67.0,Improved
+P100313,West Bengal,Urban,32,Male,Middle,No,Hypertension,2.71,Medium,7.1,0.5,6,67.3,Improved
+P100210,Maharashtra,Rural,79,Male,Middle,Yes,Hypertension,0.89,Low,11.8,23.9,1,54.0,Worsened
+P100770,Madhya Pradesh,Urban,53,Female,Low,No,Respiratory,3.38,Medium,2.9,3.0,6,66.0,Worsened
+P100201,Punjab,Rural,46,Female,Middle,No,Diabetes,0.23,Low,27.9,25.4,1,37.0,Worsened
+P100741,Punjab,Urban,65,Female,Middle,Yes,Respiratory,9.11,High,3.7,1.4,7,77.6,Stable
+P100821,Odisha,Rural,76,Female,High,Yes,Respiratory,0.33,Low,20.2,14.0,3,57.9,Stable
+P100812,Gujarat,Rural,59,Male,High,No,Respiratory,1.63,Low,6.7,8.9,2,57.7,Stable
+P100389,Rajasthan,Rural,22,Female,Low,Yes,Hypertension,1.95,Low,11.7,12.7,1,58.2,Stable
+P100546,Karnataka,Urban,75,Female,Middle,No,Diabetes,6.55,High,0.3,0.5,7,69.4,Improved
+P100039,Madhya Pradesh,Rural,31,Female,Low,No,Hypertension,1.14,Low,10.4,13.8,0,45.3,Worsened
+P100708,Odisha,Urban,37,Female,Low,No,Respiratory,9.08,High,1.9,0.5,7,66.9,Improved
+P100083,Odisha,Urban,48,Male,Middle,Yes,Respiratory,8.26,High,2.7,8.5,6,63.7,Improved
+P100601,Gujarat,Rural,22,Male,Middle,Yes,Hypertension,3.88,Medium,2.1,0.5,8,70.8,Improved
+P100185,Odisha,Rural,53,Female,Low,No,Respiratory,1.17,Low,15.8,14.5,2,56.9,Improved
+P100870,Rajasthan,Rural,43,Female,Middle,No,,3.7,Medium,4.2,3.9,11,79.3,Improved
+P100343,Madhya Pradesh,Rural,42,Male,Low,Yes,Hypertension,1.92,Low,10.4,4.4,2,55.6,Improved
+P100081,Odisha,Urban,62,Male,Low,Yes,Respiratory,3.91,Medium,5.4,8.5,7,57.8,Stable
+P100013,Tamil Nadu,Rural,25,Male,Middle,Yes,Hypertension,0.72,Low,13.3,12.8,1,66.1,Improved
+P100071,Odisha,Urban,58,Male,High,Yes,Hypertension,2.48,Medium,8.0,2.6,2,54.6,Stable
+P100387,Maharashtra,Rural,24,Female,High,No,Diabetes,5.83,High,1.0,9.7,6,69.1,Improved
+P100230,Tamil Nadu,Urban,28,Female,Low,No,,7.39,High,3.4,0.7,5,75.2,Improved
+P100089,Punjab,Rural,41,Male,Middle,Yes,,4.37,Medium,5.0,1.0,3,44.9,Improved
+P100519,Punjab,Rural,59,Male,High,No,Cardiac,2.28,Medium,6.6,0.5,5,66.1,Improved
+P100518,Uttar Pradesh,Urban,74,Female,Low,No,Cardiac,6.39,High,4.2,3.6,5,65.3,Improved
+P100851,Tamil Nadu,Urban,34,Female,Middle,Yes,Diabetes,6.22,High,3.5,4.2,7,69.3,Improved
+P100400,Odisha,Urban,70,Male,Middle,Yes,Diabetes,4.55,Medium,1.4,0.5,4,62.2,Stable
+P100887,West Bengal,Urban,48,Male,Middle,Yes,Hypertension,3.88,Medium,3.0,4.4,5,71.9,Improved
+P100206,Madhya Pradesh,Urban,48,Female,Low,Yes,Diabetes,1.24,Low,8.9,7.0,1,47.4,Stable
+P100642,Madhya Pradesh,Urban,52,Male,Middle,No,,7.17,High,0.3,2.8,7,69.8,Stable
+P100462,Uttar Pradesh,Rural,29,Male,Low,Yes,Respiratory,2.94,Medium,4.2,6.4,6,68.9,Stable
+P100896,Punjab,Urban,71,Male,Middle,Yes,Diabetes,5.46,High,4.8,6.2,6,61.1,Improved
+P100307,Bihar,Rural,19,Female,Middle,Yes,Diabetes,0.59,Low,13.9,17.3,0,50.3,Stable
+P100685,Uttar Pradesh,Urban,84,Male,High,No,Diabetes,1.95,Low,5.5,0.5,2,67.0,Stable
+P100793,Rajasthan,Urban,49,Male,Low,No,Hypertension,4.73,Medium,2.2,3.9,10,86.3,Improved
+P100433,Madhya Pradesh,Rural,71,Female,Low,No,Cardiac,1.28,Low,10.8,12.9,2,44.9,Stable
+P100349,Madhya Pradesh,Urban,29,Female,Low,No,Cardiac,5.1,High,5.8,9.3,8,72.2,Stable
+P100794,Maharashtra,Urban,35,Female,Middle,No,,3.47,Medium,5.7,2.0,6,69.6,Improved
+P100690,Tamil Nadu,Urban,82,Female,Low,Yes,Respiratory,6.08,High,7.2,8.0,4,52.3,Improved
+P100137,Rajasthan,Rural,83,Male,High,No,Respiratory,3.73,Medium,0.3,4.1,6,54.4,Stable
+P100184,Punjab,Rural,83,Male,Low,No,Diabetes,1.04,Low,10.3,11.3,1,47.5,Worsened
+P100443,Punjab,Urban,38,Male,Middle,No,Cardiac,5.32,High,3.5,3.6,6,76.6,Stable
+P100838,Odisha,Urban,66,Female,Low,No,Diabetes,6.59,High,5.2,1.7,7,61.9,Stable
+P100103,Uttar Pradesh,Rural,28,Male,Low,Yes,Diabetes,2.2,Medium,7.0,10.1,5,69.1,Improved
+P100424,West Bengal,Rural,67,Female,Low,No,Diabetes,2.18,Medium,7.1,6.9,5,60.3,Worsened
+P100189,West Bengal,Urban,78,Male,Low,No,Respiratory,1.65,Low,12.1,6.7,4,54.1,Improved
+P100079,Madhya Pradesh,Rural,59,Male,Middle,No,Hypertension,3.3,Medium,6.3,5.4,7,72.1,Stable
+P100854,Bihar,Urban,33,Male,Middle,No,Hypertension,8.19,High,5.4,6.4,16,92.0,Stable
+P100047,Uttar Pradesh,Urban,74,Male,Middle,No,Hypertension,2.89,Medium,4.8,5.3,3,57.4,Stable
+P100092,Madhya Pradesh,Urban,33,Male,Middle,No,,2.26,Medium,9.8,13.2,0,58.4,Stable
+P100549,Maharashtra,Urban,49,Male,Middle,No,Hypertension,4.35,Medium,5.4,6.4,2,54.0,Stable
+P100552,Kerala,Urban,52,Female,Middle,No,,5.74,High,4.5,6.0,8,69.2,Improved
+P100577,Kerala,Rural,52,Male,Middle,No,Hypertension,4.37,Medium,3.2,10.6,5,56.9,Worsened
+P100697,Gujarat,Rural,56,Male,High,Yes,Hypertension,1.14,Low,15.2,16.4,3,46.1,Stable
+P100826,Uttar Pradesh,Rural,65,Female,Low,No,,4.63,Medium,7.1,6.8,2,41.6,Worsened
+P100099,Madhya Pradesh,Rural,40,Female,Middle,Yes,Diabetes,0.87,Low,12.2,7.7,2,52.2,Stable
+P100154,Bihar,Urban,48,Male,Low,No,Respiratory,5.54,High,0.6,0.5,9,75.7,Improved
+P100465,Maharashtra,Rural,66,Female,High,No,Hypertension,0.79,Low,13.6,18.3,2,47.8,Worsened
+P100587,Tamil Nadu,Urban,58,Female,Middle,No,Respiratory,6.59,High,0.3,0.5,8,90.3,Improved
+P100316,Madhya Pradesh,Urban,81,Male,Low,No,Hypertension,3.63,Medium,2.6,1.8,2,42.6,Improved
+P100161,Kerala,Rural,50,Male,Middle,No,,0.79,Low,17.0,25.1,2,49.4,Worsened
+P100467,Madhya Pradesh,Rural,60,Male,Low,Yes,,1.8,Low,10.6,4.9,5,61.1,Stable
+P100491,Odisha,Rural,68,Female,Low,Yes,Diabetes,2.21,Medium,6.3,6.6,3,71.9,Stable
+P100056,Gujarat,Rural,48,Male,Middle,No,Diabetes,1.74,Low,8.8,7.0,3,72.7,Improved
+P100702,Karnataka,Urban,80,Male,High,No,Hypertension,9.21,High,1.7,0.5,12,67.4,Worsened
+P100015,Maharashtra,Urban,83,Female,Low,No,Diabetes,6.53,High,3.2,0.5,12,75.0,Improved
+P100800,Tamil Nadu,Rural,56,Male,Low,Yes,Respiratory,4.31,Medium,7.7,8.1,4,66.5,Stable
+P100535,Tamil Nadu,Urban,20,Male,Middle,Yes,Hypertension,1.23,Low,11.1,4.0,2,47.4,Improved
+P100765,Gujarat,Urban,82,Male,Low,No,Diabetes,5.95,High,4.9,0.5,7,56.3,Improved
+P100446,Gujarat,Rural,57,Male,Middle,Yes,,2.79,Medium,7.7,12.3,6,58.4,Improved
+P100440,Maharashtra,Rural,45,Female,High,No,Cardiac,2.52,Medium,7.9,9.7,3,58.9,Stable
+P100872,Punjab,Rural,77,Male,Middle,No,Cardiac,0.61,Low,16.8,19.0,1,50.2,Worsened
+P100290,Odisha,Rural,30,Female,Middle,No,Hypertension,2.11,Medium,10.1,11.5,4,54.6,Stable
+P100344,Madhya Pradesh,Rural,74,Female,Low,No,Cardiac,2.35,Medium,5.1,7.5,5,72.0,Stable
+P100153,Karnataka,Rural,66,Male,High,Yes,,1.5,Low,7.2,11.4,3,44.6,Worsened
+P100330,Uttar Pradesh,Rural,60,Male,Low,No,Diabetes,2.35,Medium,6.2,7.2,5,74.1,Worsened
+P100174,Kerala,Urban,34,Female,Low,Yes,Diabetes,1.16,Low,9.9,13.8,1,43.6,Worsened
+P100211,Tamil Nadu,Rural,61,Female,Middle,Yes,Respiratory,2.54,Medium,8.1,6.9,3,54.5,Improved
+P100863,Gujarat,Rural,74,Female,High,No,Respiratory,1.0,Low,12.2,10.2,1,52.7,Stable
+P100562,Maharashtra,Rural,84,Female,Low,Yes,,0.2,Low,24.1,24.2,2,46.9,Worsened
+P100111,West Bengal,Urban,29,Male,Middle,No,Diabetes,7.57,High,3.9,7.0,9,77.0,Improved
+P100005,Bihar,Rural,24,Male,Low,Yes,,0.86,Low,13.4,14.6,2,69.1,Improved
+P100670,Uttar Pradesh,Urban,61,Male,Low,No,Diabetes,5.16,High,0.6,2.0,7,62.1,Stable
+P100014,Uttar Pradesh,Urban,31,Female,Middle,Yes,,3.53,Medium,2.5,1.9,2,53.4,Improved
+P100580,Punjab,Rural,52,Male,Low,No,,0.38,Low,20.5,17.5,2,44.3,Worsened
+P100885,Karnataka,Urban,41,Male,High,Yes,Cardiac,2.97,Medium,5.8,1.4,2,64.0,Improved
+P100561,Bihar,Urban,72,Male,Low,No,Diabetes,6.26,High,2.7,3.1,4,48.3,Stable
+P100647,Uttar Pradesh,Rural,37,Male,Middle,No,Cardiac,2.82,Medium,6.4,12.6,3,52.4,Worsened
+P100310,Madhya Pradesh,Rural,26,Male,Middle,Yes,,2.59,Medium,7.0,10.7,4,61.5,Improved
+P100661,Punjab,Rural,49,Male,Low,Yes,Diabetes,1.23,Low,10.0,10.1,2,67.2,Stable
+P100729,Maharashtra,Rural,26,Female,High,Yes,,1.35,Low,8.9,10.7,3,47.8,Stable
+P100899,Odisha,Rural,23,Male,Low,No,Respiratory,1.02,Low,11.3,11.7,2,52.4,Stable
+P100857,Uttar Pradesh,Rural,34,Male,Low,No,,0.51,Low,19.4,16.6,2,58.3,Stable
+P100458,Gujarat,Rural,82,Male,High,No,Diabetes,7.73,High,0.3,0.5,2,52.9,Improved
+P100719,Tamil Nadu,Rural,65,Female,Low,No,Diabetes,0.61,Low,15.0,12.9,2,48.4,Stable
+P100508,Gujarat,Rural,41,Male,Low,No,Respiratory,0.77,Low,14.7,17.2,1,44.4,Worsened
+P100205,Madhya Pradesh,Urban,21,Female,Low,No,Respiratory,4.57,Medium,2.3,0.5,7,74.8,Improved
+P100657,Tamil Nadu,Urban,76,Male,Middle,No,,7.34,High,3.1,0.7,8,76.6,Improved
+P100687,Maharashtra,Rural,75,Male,Low,Yes,Cardiac,2.53,Medium,2.2,5.5,2,45.1,Worsened
+P100693,Madhya Pradesh,Urban,20,Female,Middle,Yes,Cardiac,5.51,High,2.1,0.5,6,64.4,Improved
+P100551,Maharashtra,Urban,76,Female,Low,No,,7.49,High,4.6,3.0,11,54.5,Stable
+P100738,Bihar,Urban,47,Male,Low,Yes,Cardiac,5.03,High,5.6,0.5,6,76.5,Improved
+P100065,Bihar,Rural,82,Female,Middle,Yes,,0.63,Low,17.1,11.7,2,45.8,Stable
+P100248,Madhya Pradesh,Urban,83,Male,Middle,No,Hypertension,6.21,High,0.6,0.5,6,45.5,Stable
+P100117,Punjab,Rural,62,Female,Low,Yes,Diabetes,1.64,Low,7.7,15.5,6,61.5,Worsened
+P100602,Karnataka,Rural,40,Male,Middle,Yes,,1.69,Low,6.9,9.3,1,50.5,Improved
+P100490,Kerala,Rural,40,Female,Low,No,Hypertension,1.62,Low,9.2,8.5,4,53.6,Worsened
