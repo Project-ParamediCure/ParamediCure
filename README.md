@@ -5,7 +5,7 @@ An integrated AI Project Cycle prototype built for the Class 12 AI Curriculum at
 ## 🖼️ Project Visual Identity
 The system operates under the official branding asset shown below. Ensure this image is saved locally as `paramedicure_logo.png` in the application directory to allow the user interface to load custom branding assets correctly:
 
-<img src="paramedicure_logo.png" width="400" alt="ParamediCure Logo" />
+<img width="100" height="133" alt="sfkaxasvap3g1 - Copy" src="https://github.com/user-attachments/assets/1e5da63d-0118-4c55-b259-ac341bb745ce" />
 
 ---
 
