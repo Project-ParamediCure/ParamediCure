@@ -2,14 +2,14 @@
 
 An integrated AI Project Cycle prototype built for the Class 12 AI Curriculum at Birla Public School, Doha. This project couples a responsive, dark-mode Python frontend interface with an automated, incremental Machine Learning analytics pipeline.
 
-## 🖼️ Project Visual Identity
+## Project Visual Identity
 The system operates under the official branding asset shown below. Ensure this image is saved locally as `paramedicure_logo.png` in the application directory to allow the user interface to load custom branding assets correctly:
 
 <img width="500" height="667" alt="sfkaxasvap3g1 - Copy" src="https://github.com/user-attachments/assets/1e5da63d-0118-4c55-b259-ac341bb745ce" />
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 The application layout decouples real-time geolocated UI components from predictive classification math to guarantee stutter-free multi-threaded map execution:
 
 *   **Frontend UI Engine (`ParamediCureApp.py`):** Built natively in Python using `Tkinter` and `tkintermapview`. It implements a customized mathematical **Haversine formula** to handle live straight-line spherical distance mapping. The UI automatically runs spatial updates across an interactive coordinate display canvas assuming a constant ambulance transit performance speed of **45 km/h**.
@@ -17,7 +17,7 @@ The application layout decouples real-time geolocated UI components from predict
 
 ---
 
-## 📑 Multi-Stage Medical Triage Framework
+## Multi-Stage Medical Triage Framework
 The software dynamically scales severity weights using three explicitly structured clinical stages, accessible via interactive desktop control panels:
 
 *   **Stage 1 (Yellow) | Fractures:** Low-to-moderate systemic risk. Covers specialized structural containment routing for Arm, Leg, or Rib fractures.
@@ -26,7 +26,7 @@ The software dynamically scales severity weights using three explicitly structur
 
 ---
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### 1. Pre-requisites
 Ensure you are using a local computer system configured with a desktop display server environment (Windows, macOS, or Linux). This script cannot render windows on a headless cloud console or online development notebooks.
