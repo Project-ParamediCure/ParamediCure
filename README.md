@@ -1,19 +1,48 @@
-# ParamediCure: Fast triage. Clear stages. Faster care
-An integrated AI Project Cycle prototype built for the Class 12 AI Curriculum. This project decouples a high-performance Python frontend interface from an ensemble Machine Learning analytics pipeline.
-# <img width="512" height="683" alt="sfkaxasvap3g1" src="https://github.com/user-attachments/assets/cc1b8ec9-92e5-408f-a362-3ce1f8c55730" />
+# ParamediCure: Fast Triage. Clear Stages. Faster Care.
 
-# System Architecture
-- **Frontend UI Engine (`ParamediCureApp.py`):** Built natively in Python using `Tkinter` and `tkintermapview`. Handles multi-threaded geolocated routing, custom trigonometry-based Haversine distance tracking, and localized edge-data logging.
-- **Machine Learning Backend (`orange_workflow.ows`):** An analytical framework built in Orange Data Mining. Uses an unsupervised Preprocessing pipeline paired with a Supervised **Random Forest Classifier** to evaluate clinical features and predict patient outcomes.
+An integrated AI Project Cycle prototype built for the Class 12 AI Curriculum at Birla Public School, Doha. This project couples a responsive, dark-mode Python frontend interface with an automated, incremental Machine Learning analytics pipeline.
 
-# AI Domains & Features Tracked
-- **Domain:** Data Science & Machine Learning (Supervised Predictive Classification)
-- **Key Features:** Patient Age, Gender, Income Level, Kiosks per 10k population, Distance to Kiosk, Diagnosis Delay, and Treatment Adherence.
-- **Target Variable:** `Outcome` (Categorized as Improved, Stable, or Worsened)
+## 🖼️ Project Visual Identity
+The system operates under the official branding asset shown below. Ensure this image is saved locally as `paramedicure_logo.png` in the application directory to allow the user interface to load custom branding assets correctly:
 
+<img src="paramedicure_logo.png" width="400" alt="ParamediCure Logo" />
 
-Installation & Setup
-1. Clone the repository.
-2. Install required dependencies: `pip install tkintermapview`
-3. Launch the operational kiosk: `python ParamediCureApp.py`
-4. Open `orange_workflow.ows` inside Orange Data Mining to view the ML validation matrices.
+---
+
+## 🏗️ System Architecture
+The application layout decouples real-time geolocated UI components from predictive classification math to guarantee stutter-free multi-threaded map execution:
+
+*   **Frontend UI Engine (`ParamediCureApp.py`):** Built natively in Python using `Tkinter` and `tkintermapview`. It implements a customized mathematical **Haversine formula** to handle live straight-line spherical distance mapping. The UI automatically runs spatial updates across an interactive coordinate display canvas assuming a constant ambulance transit performance speed of **45 km/h**.
+*   **Machine Learning Pipeline:** Powered by an online classification engine using the `Orange` framework. It loads structural telemetry matrices (`emergency_kiosk_dataset.tab`), applies a **K-Nearest Neighbors (KNN)** predictive model ($K=3$), and continuously appends verified coordinates back into local storage to achieve data-driven **incremental learning**.
+
+---
+
+## 📑 Multi-Stage Medical Triage Framework
+The software dynamically scales severity weights using three explicitly structured clinical stages, accessible via interactive desktop control panels:
+
+*   **Stage 1 (Yellow) | Fractures:** Low-to-moderate systemic risk. Covers specialized structural containment routing for Arm, Leg, or Rib fractures.
+*   **Stage 2 (Green) | Fainting & Related:** General non-acute observation tracking. Manages triage sequences for dizziness, low blood pressure variations, and mild breathing adjustments.
+*   **Stage 3 (Red) | Critical / Cardiac:** High-risk priority interception. Deploys instantaneous routing matrix loops for Cardiac Arrest, Heart Attacks, and active Stroke symptoms.
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Pre-requisites
+Ensure you are using a local computer system configured with a desktop display server environment (Windows, macOS, or Linux). This script cannot render windows on a headless cloud console or online development notebooks.
+
+### 2. Dependency Resolution
+Install all mandatory external packages, mathematical compilation engines, and image manipulation modules by running the command below in your terminal:
+
+```bash
+pip install Orange3 tkintermapview pillow numpy
+```
+
+### 3. Execution Sequence
+Ensure that both your primary script file and your visual asset (`paramedicure_logo.png`) are located in the same directory path, then boot up the deployment panel:
+
+```bash
+python ParamediCureApp.py
+```
+
+*Note: If `emergency_kiosk_dataset.tab` is missing during your first launch sequence, the Python engine will automatically synthesize a balanced synthetic dataset of 60 initial geospatial telemetry vector rows to calibrate the classification matrix.*
